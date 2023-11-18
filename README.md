@@ -30,7 +30,7 @@
 <b>Lets connect</b> 
 <p align="center"> 
  
-<a href="">  
+<a href="https://www.linkedin.com/in/abdi-essa-48883416b">  
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
 </a> 
  
